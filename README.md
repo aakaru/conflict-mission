@@ -1,3 +1,1 @@
-# conflict-mission
-This is the local change.
-
+"This is the final, resolved change."

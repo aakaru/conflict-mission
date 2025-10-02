@@ -1,2 +1,2 @@
 # conflict-mission
-This is the remote change. 
+This is the local change.
